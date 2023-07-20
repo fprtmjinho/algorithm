@@ -24,7 +24,7 @@ int main(){
                     mx[cnt]=j-1;
                     mx.push_back(j);
                 }else{
-                    mx.push_back(j);aaaa
+                    mx.push_back(j);aaa
                 }
             }
             m=ju[j];
