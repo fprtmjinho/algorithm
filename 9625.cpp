@@ -12,7 +12,7 @@ void dp(int k){
     }
 }
 
-int main(){aaa
+int main(){
     int k; cin >>k;
     dpa[1] = 0;
     dpb[1] = 1;
